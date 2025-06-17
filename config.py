@@ -1,5 +1,5 @@
 class ConfigData:
-    GEMINI_API_KEY = "AIzaSyAzVAfzE7fX4_trYHLGhZdnJEMTPWnvg30"
+    GEMINI_API_KEY = "your_gemini_api_key"
 
     TABLE_SCHEMA = {
         "customers": {
