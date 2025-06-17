@@ -77,7 +77,7 @@ or Edit
 # .env
 
 from pymongo import MongoClient
-db = MongoClient("<your_mongodb_connection_string>")["<your_database_name>"]
+## db = MongoClient("<your_mongodb_connection_string>")["<your_database_name>"]
 (I used this)
 
 
