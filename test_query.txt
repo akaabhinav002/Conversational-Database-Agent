@@ -1,0 +1,49 @@
+## Basic Single-Collection Queries Customers
+
+-How many accounts does Elizabeth Ray have?
+-What is her email?
+-Show all customers who are active.
+-What products are linked to account ID 371138?
+-Show the credit limit for account 324287.
+-Show the total number of transactions for account 716662.
+
+
+## Intermediate: Lookup & Joins
+
+-What are the limits of all accounts owned by Elizabeth Ray?
+
+-Which benefits does Elizabeth Ray have?
+
+-Get all products associated with the accounts of Elizabeth Ray.
+
+
+
+## Advanced Multi-Stage Aggregations
+
+-Which customer has the highest number of accounts?
+
+-What is the total amount of AMD shares bought across all accounts?
+
+-Which account had the highest transaction total?
+
+-When was the last transaction made for account 716662?
+
+
+## Follow-up & Conversational Context (Memory)
+
+-Show me the accounts of Elizabeth Ray.
+
+-What is her email/address.
+
+-Which products are linked to those accounts?
+
+
+## Creative/Agentic Reasoning Queries
+
+-Who are the top 3 customers with the most transactions?
+
+-What is the average limit of accounts that include “InvestmentStock” as a product?
+
+-Which symbols did Elizabeth Ray buy and sell?
+
+-Are there any accounts without transactions?
