@@ -53,6 +53,7 @@ project/
 
 ```python
 GEMINI_API_KEY = "your-google-api-key"
+from google AI studio for free
 ```
 
 ---
@@ -77,6 +78,7 @@ or Edit
 
 from pymongo import MongoClient
 db = MongoClient("<your_mongodb_connection_string>")["<your_database_name>"]
+(I used this)
 
 
 ### 3. 🚦 Run the App
@@ -159,3 +161,6 @@ See [`requirements.txt`](./requirements.txt)
 
 **Abhinav Kangle**  
 [LinkedIn](https://www.linkedin.com/in/abhinav-kangle-523773249/) • [GitHub](https://github.com/akaabhinav002)
+![image](https://github.com/user-attachments/assets/e5a31ac6-582e-40f7-9aec-159ed3131610)
+
+![image](https://github.com/user-attachments/assets/4018b79d-919c-4d44-a4e4-d02736e5a7b1)
